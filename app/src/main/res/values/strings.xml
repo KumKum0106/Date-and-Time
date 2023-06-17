@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Date And Time Picker</string>
+    <string name="textview1">Pick a Date to schedule Interview</string>
+    <string name="pick_a_date">Pick A Date</string>
+    <string name="time">Select Time for Interview</string>
+    <string name="status">Status</string>
+</resources>
